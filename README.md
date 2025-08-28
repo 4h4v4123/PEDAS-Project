@@ -1,2 +1,2 @@
 # PEDAS-Project
-a project for Competition
+a project for competition
